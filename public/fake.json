@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Project Alpha",
+      "description": "A revolutionary new app that transforms the way users interact with AI.",
+      "project_link": "https://example.com/project-alpha",
+      "img": "https://i.ibb.co/12CDh5z/image-2025-01-18-T09-49-06-009-Z.png"
+    },
+    {
+      "id": 2,
+      "title": "Project Beta",
+      "description": "An innovative platform for data visualization that brings insights to life.",
+      "project_link": "https://example.com/project-beta",
+      "img": "https://i.ibb.co.com/bXBLYGv/image-2025-01-18-T09-50-47-415-Z.png"
+    },
+    {
+      "id": 3,
+      "title": "Project Gamma",
+      "description": "A cutting-edge tool designed for seamless project management and team collaboration.",
+      "project_link": "https://example.com/project-gamma",
+      "img": "https://i.ibb.co/G8pP5Rm/image-2025-01-18-T09-54-12-009-Z.png"
+    },
+    {
+      "id": 4,
+      "title": "Project Delta",
+      "description": "A next-generation app that integrates AI with personal finance management.",
+      "project_link": "https://example.com/project-delta",
+      "img": "https://i.ibb.co/TzJXY2c/image-2025-01-18-T09-56-23-009-Z.png"
+    },
+    {
+      "id": 5,
+      "title": "Project Epsilon",
+      "description": "A state-of-the-art solution for real-time data analytics and reporting.",
+      "project_link": "https://example.com/project-epsilon",
+      "img": "https://i.ibb.co/1v8Z5J7/image-2025-01-18-T09-58-44-009-Z.png"
+    }
+  ]
+  
