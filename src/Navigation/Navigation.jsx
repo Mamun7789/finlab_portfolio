@@ -8,13 +8,17 @@ const Navigation = () => {
 
   const handleLinkClick = (link) => {
     setActiveLink(link);
-    setIsOpen(false); 
+    setIsOpen(false);
   };
 
   return (
     <nav className="bg-transparent fixed top-0 left-0 w-full z-50 shadow-md">
       <div className="container mx-auto flex items-center justify-between p-4 relative bg-opacity-80">
-        <img src={logo} alt="Logo" className="w-40 h-24" />
+        <img 
+          src={logo} 
+          alt="Logo" 
+          className="w-28 h-16 md:w-40 md:h-24" // Adjust size for mobile and desktop
+        />
         <ul className="hidden md:flex space-x-6">
           {["home", "about", "skills", "services", "portfolio", "contact"].map((link) => (
             <li
@@ -33,7 +37,6 @@ const Navigation = () => {
               >
                 {link.charAt(0).toUpperCase() + link.slice(1)}
               </Link>
-         
               <span className="absolute left-0 bottom-0 w-0 h-1 bg-[#00EEFF] group-hover:w-full transition-all duration-300"></span>
             </li>
           ))}
@@ -84,12 +87,11 @@ const Navigation = () => {
                   duration={500}
                   spy={true}
                   onSetActive={() => setActiveLink(link)}
-                  onClick={() => handleLinkClick(link)} 
+                  onClick={() => handleLinkClick(link)}
                   className="transition duration-300"
                 >
                   {link.charAt(0).toUpperCase() + link.slice(1)}
                 </Link>
-               
                 <span className="absolute left-0 bottom-0 w-0 h-1 bg-[#00EEFF] group-hover:w-full transition-all duration-300"></span>
               </li>
             ))}

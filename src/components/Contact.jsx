@@ -20,7 +20,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission logic (e.g., send form data to a server or email)
+ 
     console.log(formData);
   };
 
@@ -48,24 +48,15 @@ const Contact = () => {
                 <p>1234 Your Street, City, Country</p>
               </div>
             </div>
-            <div className="bg-gray-800 p-6 rounded-lg shadow-lg flex items-center justify-between">
-              <div className="text-white flex items-center">
-                <FaPhone className="text-[#00EEFF] mr-2" />
-                <span>(+123) 456-7890</span>
-              </div>
-              <FaCopy
-                className="text-[#00EEFF] cursor-pointer"
-                onClick={() => handleCopy('(+123) 456-7890')}
-              />
-            </div>
+           
             <div className="bg-gray-800 p-6 rounded-lg shadow-lg flex items-center justify-between">
               <div className="text-white flex items-center">
                 <FaEnvelope className="text-[#00EEFF] mr-2" />
-                <span>yourname@example.com</span>
+                <span>zobaeermahmood662@gmail.com</span>
               </div>
               <FaCopy
                 className="text-[#00EEFF] cursor-pointer"
-                onClick={() => handleCopy('yourname@example.com')}
+                onClick={() => handleCopy('zobaeermahmood662@gmail.com')}
               />
             </div>
           </div>

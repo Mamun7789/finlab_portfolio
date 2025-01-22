@@ -1,38 +1,32 @@
 [
     {
       "id": 1,
-      "title": "Project Alpha",
-      "description": "A revolutionary new app that transforms the way users interact with AI.",
+      "title": "Bank Reconcilation",
+      "description": "I will reconcile up to 60 transactions in QuickBooks, matching them with your bank statement for accuracy. This service includes identifying and resolving discrepancies, categorizing transactions correctly, and providing a final reconciliation report.",
       "project_link": "https://example.com/project-alpha",
-      "img": "https://i.ibb.co/12CDh5z/image-2025-01-18-T09-49-06-009-Z.png"
+      "img": "https://i.ibb.co.com/MnqbCdH/Screenshot-4.png"
     },
     {
       "id": 2,
-      "title": "Project Beta",
-      "description": "An innovative platform for data visualization that brings insights to life.",
+      "title": "Reconcile two foreign currency bank accounts",
+      "description": "This project involves reconciling two foreign currency bank accounts (USD and EUR) within QuickBooks to ensure they align with bank statements. The scope includes identifying and resolving discrepancies caused by fluctuating exchange rates, verifying account balances for accuracy, and providing a comprehensive walkthrough for managing future reconciliations efficiently. Regular progress updates will be provided to keep the client informed throughout the project.",
       "project_link": "https://example.com/project-beta",
-      "img": "https://i.ibb.co.com/bXBLYGv/image-2025-01-18-T09-50-47-415-Z.png"
+      "img": "https://i.ibb.co.com/gF4Ztgh/Screenshot-5.png"
     },
     {
       "id": 3,
-      "title": "Project Gamma",
-      "description": "A cutting-edge tool designed for seamless project management and team collaboration.",
+      "title": "Inventory Valuation Impact Analysis",
+      "description": "This report examines how inventory valuation methods impact cash flow, profit & loss, and balance sheet figures. It provides insights into financial outcomes and offers actionable recommendations for choosing the best method based on business goals and industry needs.",
       "project_link": "https://example.com/project-gamma",
-      "img": "https://i.ibb.co/G8pP5Rm/image-2025-01-18-T09-54-12-009-Z.png"
+      "img": "https://i.ibb.co.com/r4cvmbN/Screenshot-6.png"
     },
     {
       "id": 4,
-      "title": "Project Delta",
-      "description": "A next-generation app that integrates AI with personal finance management.",
+      "title": "QuickBooks Setup",
+      "description": "This project focuses on tailoring QuickBooks to meet the unique needs of consulting businesses. The setup includes creating customized income and expense categories, along with personalized financial reporting features",
       "project_link": "https://example.com/project-delta",
-      "img": "https://i.ibb.co/TzJXY2c/image-2025-01-18-T09-56-23-009-Z.png"
-    },
-    {
-      "id": 5,
-      "title": "Project Epsilon",
-      "description": "A state-of-the-art solution for real-time data analytics and reporting.",
-      "project_link": "https://example.com/project-epsilon",
-      "img": "https://i.ibb.co/1v8Z5J7/image-2025-01-18-T09-58-44-009-Z.png"
+      "img": "https://i.ibb.co.com/2dj7dpg/Screenshot-7.png"
     }
+    
   ]
   
