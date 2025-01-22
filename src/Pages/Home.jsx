@@ -12,7 +12,7 @@ import Footer from '../Share/Footer'
 const Home = () => {
   return (
     <>
-    <div>
+    <div id='home'>
     <div
   className="relative w-full h-[100vh] bg-cover bg-center"
   style={{ backgroundImage: `url(${backgroundImage})` }}

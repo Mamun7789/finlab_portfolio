@@ -11,7 +11,7 @@ const Portfolio = () => {
   }, []);
 
   return (
-    <section className="bg-black py-12">
+    <section id='portfolio' className="bg-black py-12">
       <div className="max-w-7xl mx-auto px-6">
       <h2 className="text-4xl text-white gap-3 font-bold text-center mb-12">
          My <span className="text-[#00EEFF]">Portfolio</span>
